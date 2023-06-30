@@ -3,9 +3,6 @@ include "flag.php";
 include "ipinfo.php";
 include "ping.php";
 
-<?php
-error_reporting(0);
-header("Content-type: application/json;");
 function getProxies($channel)
 {
     $get = file_get_contents("https://t.me/s/" . $channel);
