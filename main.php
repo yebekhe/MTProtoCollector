@@ -1,6 +1,6 @@
 <?php
-include "get_proxy.php";
-include "config.php";
+include "modules/get_proxy.php";
+include "modules/config.php";
 
 $final_data = [];
 foreach ($sources as $source) {
