@@ -38,7 +38,7 @@ function parse_proxy($proxy, $name)
         }
         $ip_data = ip_info($query_params["server"]);
         if (isset($ip_data["country"])) {
-            $location = $ip_info["country"];
+            $location = $ip_data["country"];
             $flag = getFlags($location);
         } else {
             $flag = "🚩";
