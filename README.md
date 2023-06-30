@@ -1,5 +1,5 @@
 # MTproto Collector
-[![Collector](https://github.com/yebekhe/TelegramV2rayCollector/actions/workflows/MTprotoCollector.yml/badge.svg)](https://github.com/yebekhe/TelegramV2rayCollector/actions/workflows/MTprotoCollector.yml)
+[![Collector](https://github.com/yebekhe/MTProtoCollector/actions/workflows/MTprotoCollector.yml/badge.svg)](https://github.com/yebekhe/MTProtoCollector/actions/workflows/MTprotoCollector.yml)
 
 <b>This project is intended for educational purposes only. Any other use of it, including commercial, personal, or non-educational use, is not accepted!</b>
 
