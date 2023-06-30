@@ -16,6 +16,7 @@
 
       body {
         margin: 0;
+        overflow-x: auto;
         background-color: var(--background-color);
         color: var(--text-color);
         transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
@@ -58,6 +59,7 @@
       table {
         border-collapse: collapse;
         width: 100%;
+        max-width: 100%;
         margin: 0 auto;
         box-shadow: var(--box-shadow);
       }
@@ -135,9 +137,11 @@
           const nameParts = proxy.query.name.split('|');
           const channelUrl = nameParts[0].replace('@', '');
           nameCell.innerHTML = `
+				
 				<a href="https://t.me/${channelUrl}" class="link-preview">${nameParts[0]}</a>`
           countryCell.innerText = nameParts[1];
           linkCell.innerHTML = `
+				
 				<a href="${proxy.link}" class="link-preview">${proxy.link}</a>`;
         });
       }).catch((error) => console.error(error));
