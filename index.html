@@ -98,6 +98,18 @@
       .link-preview:hover {
         transform: translate(5px, 5px);
       }
+
+      @media (max-width: 768px) {
+        table {
+          font-size: 12px;
+          padding: 0;
+        }
+
+        th,
+        td {
+          padding: 5px;
+        }
+      }
     </style>
   </head>
   <body>
@@ -138,9 +150,11 @@
           const channelUrl = nameParts[0].replace('@', '');
           nameCell.innerHTML = `
 				
+				
 				<a href="https://t.me/${channelUrl}" class="link-preview">${nameParts[0]}</a>`
           countryCell.innerText = nameParts[1];
           linkCell.innerHTML = `
+				
 				
 				<a href="${proxy.link}" class="link-preview">${proxy.link}</a>`;
         });
