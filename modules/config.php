@@ -14,6 +14,8 @@ $sources = [
     "proxyme",
     "ProxyMTProto_tel",
     "proxyy",
+    "russian_proxy",
+    "PinkProxy",
 ];
 
 ?>
