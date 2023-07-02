@@ -16,6 +16,7 @@ $sources = [
     "proxyy",
     "russian_proxy",
     "PinkProxy",
+    "V2rayng_Fast"
 ];
 
 ?>
