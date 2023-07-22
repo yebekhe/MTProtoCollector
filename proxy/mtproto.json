@@ -4,12 +4,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "51.159.166.112",
-            "port": "7603",
-            "secret": "ee0ad565389bb264b33c81f11bd42c104b7777772e736974652e636f6d",
+            "server": "195.201.253.38",
+            "port": "443",
+            "secret": "7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg",
+            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=195.201.253.38&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg&@GlypeX|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "51.159.149.220",
+            "port": "8000",
+            "secret": "eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d",
             "name": "@GlypeX|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=51.159.166.112&port=7603&secret=ee0ad565389bb264b33c81f11bd42c104b7777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=51.159.149.220&port=8000&secret=eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -343,9 +355,9 @@
             "server": "rosehotel.ir.injayadbegir.ir.eynakha.ir.altonamed.com.carlo.co.ir.persian-power.com.kbaja.ir.pedaseng.ir.iranjob.ir.toolgraph.ir.johnstongroup.net.nasimeatr.com.7decorate.ir.chartistpro.com.daryayenour.com.hosseinibrothers.ir.rozila.ir.john-luthur.autos",
             "port": "443",
             "secret": "7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==",
-            "name": "@ProxyMTProto_tel|\ud83c\uddf0\ud83c\uddf7"
+            "name": "@ProxyMTProto_tel|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=rosehotel.ir.injayadbegir.ir.eynakha.ir.altonamed.com.carlo.co.ir.persian-power.com.kbaja.ir.pedaseng.ir.iranjob.ir.toolgraph.ir.johnstongroup.net.nasimeatr.com.7decorate.ir.chartistpro.com.daryayenour.com.hosseinibrothers.ir.rozila.ir.john-luthur.autos&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==&@ProxyMTProto_tel|\ud83c\uddf0\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=rosehotel.ir.injayadbegir.ir.eynakha.ir.altonamed.com.carlo.co.ir.persian-power.com.kbaja.ir.pedaseng.ir.iranjob.ir.toolgraph.ir.johnstongroup.net.nasimeatr.com.7decorate.ir.chartistpro.com.daryayenour.com.hosseinibrothers.ir.rozila.ir.john-luthur.autos&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==&@ProxyMTProto_tel|\ud83d\udea9"
     },
     {
         "scheme": "https",
@@ -439,9 +451,9 @@
             "server": "www.createeatgo.website.",
             "port": "443",
             "secret": "7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==",
-            "name": "@v2rayNGNeT|\ud83d\udea9"
+            "name": "@v2rayNGNeT|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.createeatgo.website.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==&@v2rayNGNeT|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=www.createeatgo.website.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==&@v2rayNGNeT|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
