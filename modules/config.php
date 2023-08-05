@@ -21,6 +21,7 @@ $sources = [
     "v2rayNGNeT",
     "PAINB0Y",
     "proxy_kafee",
+    "alephproxy",
 ];
 
 ?>
