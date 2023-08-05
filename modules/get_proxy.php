@@ -53,7 +53,7 @@ function parse_proxy($proxy, $name)
 
 function proxy_array_maker($source)
 {
-    $key_limit = count(getProxies($source)) - 3;
+    $key_limit = count(getProxies($source)) - 5;
     $output = [];
     foreach (getProxies($source) as $key => $proxy) {
         if ($key >= $key_limit) {
