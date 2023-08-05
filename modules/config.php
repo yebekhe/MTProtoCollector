@@ -22,6 +22,7 @@ $sources = [
     "PAINB0Y",
     "proxy_kafee",
     "alephproxy",
+    "ProxyMTProtoIR"
 ];
 
 ?>
