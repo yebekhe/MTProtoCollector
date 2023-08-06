@@ -28,7 +28,7 @@ function parse_proxy($proxy, $name)
     $query_string = str_replace("amp;", "", $parts["query"]);
     parse_str($query_string, $query_params);
     if (
-        !filtered_or_not($query_params["server"])
+        !filtered_or_not("https://" . $query_params["server"])
     ) {
         foreach ($query_params as $key => $value) {
             if (stripos($key, "@") !== false) {
