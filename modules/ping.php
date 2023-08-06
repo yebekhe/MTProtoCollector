@@ -21,7 +21,7 @@ function filtered_or_not($input){
     $precent = [100, 66, 33, 0];
     if (!is_null($check_host_data)){
         $ping_count = count($check_host_data);
-        $output = $precent[$ping_count] >= 66 ? true : false ;
+        $output = $precent[$ping_count] >= 33 ? true : false ;
     }
     return $output;
 }
