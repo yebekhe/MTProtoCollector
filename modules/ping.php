@@ -14,7 +14,7 @@ function ping($ip, $port)
 }
 
 function filtered_or_not($input){
-    $check_host_url = "https://3smdj6-8080.csb.app/?host=";
+    $check_host_url = "https://vowrss-8080.csb.app/?host=";
     $check_host_data = json_decode(file_get_contents($check_host_url . $input), true);
     $average_ping = 0;
     $ping_count = 0;
