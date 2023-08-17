@@ -116,11 +116,11 @@ function accuracy($accuracy)
 
 
 function filtered_or_not($input){
-    $request_id = check_host($host);
+    $request_id = check_host($input);
     $accuracy = isset($_GET['accuracy']) ? (int) $_GET['accuracy'] : 3;
     accuracy($accuracy);
     $pings = check_ping($request_id);
-    $check_host_data = json_decode($ping, true);
+    $check_host_data = json_decode($pings, true);
     $ping_count = 0;
     $precent = [100, 66, 33, 0];
     if (!is_null($check_host_data)){
