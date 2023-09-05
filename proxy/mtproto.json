@@ -4,6 +4,30 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "fullnetwork.etherminer.lol",
+            "port": "443",
+            "secret": "7jK5IN_7UWQwKOL2uHjU6sEgICAgIA",
+            "name": "@GlypeX|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=fullnetwork.etherminer.lol&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgIA&@GlypeX|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "51.159.149.220",
+            "port": "8000",
+            "secret": "eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d",
+            "name": "@GlypeX|\ud83c\uddeb\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=51.159.149.220&port=8000&secret=eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "49.13.67.162",
             "port": "443",
             "secret": "EE1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D1603010200010101010101010101010101010101010101011603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D",
@@ -16,24 +40,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.investopedia.sbs.",
-            "port": "443",
-            "secret": "7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==",
-            "name": "@Lion_MTProto|\ud83c\uddf8\ud83c\uddec"
-        },
-        "link": "https:\/\/t.me\/proxy?server=www.investopedia.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==&@Lion_MTProto|\ud83c\uddf8\ud83c\uddec"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "www.burjkhalifa.sbs.",
             "port": "443",
             "secret": "7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==",
-            "name": "@ProxyMTProto|\ud83d\udea9"
+            "name": "@ProxyMTProto|\ud83c\uddf8\ud83c\uddec"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.burjkhalifa.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==&@ProxyMTProto|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=www.burjkhalifa.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==&@ProxyMTProto|\ud83c\uddf8\ud83c\uddec"
     },
     {
         "scheme": "https",
@@ -43,9 +55,9 @@
             "server": "www.energydigital.sbs",
             "port": "443",
             "secret": "7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==",
-            "name": "@ProxyMTProto|\ud83d\udea9"
+            "name": "@ProxyMTProto|\ud83c\uddf8\ud83c\uddec"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.energydigital.sbs&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==&@ProxyMTProto|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=www.energydigital.sbs&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==&@ProxyMTProto|\ud83c\uddf8\ud83c\uddec"
     },
     {
         "scheme": "https",
@@ -55,21 +67,9 @@
             "server": "henry-farmer.farakav.com.verakrouzo.info",
             "port": "443",
             "secret": "7jK5IN_7UWQwKOL2uHjU6sF3d3cuc3BlZWR0ZXN0Lm5ldA",
-            "name": "@Myporoxy|\ud83d\udea9"
-        },
-        "link": "https:\/\/t.me\/proxy?server=henry-farmer.farakav.com.verakrouzo.info&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuc3BlZWR0ZXN0Lm5ldA&@Myporoxy|\ud83d\udea9"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "Dns-dash.cloudflare.com.www.lopkhonik.info.",
-            "port": "443",
-            "secret": "7jK5IN_7UWQwKOL2uHjU6sF3d3cuc3BlZWR0ZXN0Lm5ldA",
             "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=Dns-dash.cloudflare.com.www.lopkhonik.info.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuc3BlZWR0ZXN0Lm5ldA&@Myporoxy|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=henry-farmer.farakav.com.verakrouzo.info&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuc3BlZWR0ZXN0Lm5ldA&@Myporoxy|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -94,6 +94,18 @@
             "name": "@iMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
         "link": "https:\/\/t.me\/proxy?server=212.69.14.195&port=7980&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA&@iMTProto|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "37.27.18.198",
+            "port": "443",
+            "secret": "eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972",
+            "name": "@PlusMTProto|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=37.27.18.198&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972&@PlusMTProto|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
@@ -127,9 +139,9 @@
             "server": "farhonar.ir.nordicsunshine.se.irantrans.info.4seasoniran.com.mazanehonline.com.bebeeno.org.raa_dshop.ir.mabnatech.com.f_dderp.ir.miralglass.com.parseskenas.com.takkalastore.com.ahc.ir.ifrotel.ir.313133.ir.darkick.uk.prg24.ir.hiword.ir.mekanik-bartar.ir.",
             "port": "443",
             "secret": "ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d",
-            "name": "@proxyhubs|\ud83c\udde9\ud83c\uddea"
+            "name": "@proxyhubs|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=farhonar.ir.nordicsunshine.se.irantrans.info.4seasoniran.com.mazanehonline.com.bebeeno.org.raa_dshop.ir.mabnatech.com.f_dderp.ir.miralglass.com.parseskenas.com.takkalastore.com.ahc.ir.ifrotel.ir.313133.ir.darkick.uk.prg24.ir.hiword.ir.mekanik-bartar.ir.&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d&@proxyhubs|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=farhonar.ir.nordicsunshine.se.irantrans.info.4seasoniran.com.mazanehonline.com.bebeeno.org.raa_dshop.ir.mabnatech.com.f_dderp.ir.miralglass.com.parseskenas.com.takkalastore.com.ahc.ir.ifrotel.ir.313133.ir.darkick.uk.prg24.ir.hiword.ir.mekanik-bartar.ir.&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d&@proxyhubs|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -148,24 +160,48 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "116.203.208.82",
+            "server": "94.103.92.162",
             "port": "443",
-            "secret": "EE1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D1603010200010101010101010101010101010101010101011603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D",
-            "name": "@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
+            "secret": "ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D160301020001000100000000000000000000000000000000",
+            "name": "@ProxyDaemi|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=116.203.208.82&port=443&secret=EE1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D1603010200010101010101010101010101010101010101011603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D&@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=94.103.92.162&port=443&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D160301020001000100000000000000000000000000000000&@ProxyDaemi|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "94.103.80.102",
+            "server": "185.33.24.205",
             "port": "443",
-            "secret": "7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA",
-            "name": "@ProxyDaemi|\ud83c\uddf3\ud83c\uddf1"
+            "secret": "EE1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D1603010200010101010101010101010101010101010101011603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D",
+            "name": "@ProxyDaemi|\ud83c\uddf9\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=94.103.80.102&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA&@ProxyDaemi|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=185.33.24.205&port=443&secret=EE1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D1603010200010101010101010101010101010101010101011603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D&@ProxyDaemi|\ud83c\uddf9\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "www.europages.sbs.",
+            "port": "443",
+            "secret": "7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==",
+            "name": "@ProxyMTProto_tel|\ud83c\uddf8\ud83c\uddec"
+        },
+        "link": "https:\/\/t.me\/proxy?server=www.europages.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==&@ProxyMTProto_tel|\ud83c\uddf8\ud83c\uddec"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "www.investopedia.sbs.",
+            "port": "443",
+            "secret": "7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==",
+            "name": "@ProxyMTProto_tel|\ud83c\uddf8\ud83c\uddec"
+        },
+        "link": "https:\/\/t.me\/proxy?server=www.investopedia.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==&@ProxyMTProto_tel|\ud83c\uddf8\ud83c\uddec"
     },
     {
         "scheme": "https",
