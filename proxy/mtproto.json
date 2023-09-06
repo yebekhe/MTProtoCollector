@@ -4,18 +4,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "18.222.46.207",
-            "port": "443",
-            "secret": "ee000000000000000000000000000000007765622e62616c652e696f",
-            "name": "@GlypeX|\ud83d\udea9"
-        },
-        "link": "https:\/\/t.me\/proxy?server=18.222.46.207&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f&@GlypeX|\ud83d\udea9"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "49.13.67.162",
             "port": "443",
             "secret": "EE1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D1603010200010101010101010101010101010101010101011603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D",
@@ -139,9 +127,9 @@
             "server": "farhonar.ir.nordicsunshine.se.irantrans.info.4seasoniran.com.mazanehonline.com.bebeeno.org.raa_dshop.ir.mabnatech.com.f_dderp.ir.miralglass.com.parseskenas.com.takkalastore.com.ahc.ir.ifrotel.ir.313133.ir.darkick.uk.prg24.ir.hiword.ir.mekanik-bartar.ir.",
             "port": "443",
             "secret": "ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d",
-            "name": "@proxyhubs|\ud83d\udea9"
+            "name": "@proxyhubs|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=farhonar.ir.nordicsunshine.se.irantrans.info.4seasoniran.com.mazanehonline.com.bebeeno.org.raa_dshop.ir.mabnatech.com.f_dderp.ir.miralglass.com.parseskenas.com.takkalastore.com.ahc.ir.ifrotel.ir.313133.ir.darkick.uk.prg24.ir.hiword.ir.mekanik-bartar.ir.&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d&@proxyhubs|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=farhonar.ir.nordicsunshine.se.irantrans.info.4seasoniran.com.mazanehonline.com.bebeeno.org.raa_dshop.ir.mabnatech.com.f_dderp.ir.miralglass.com.parseskenas.com.takkalastore.com.ahc.ir.ifrotel.ir.313133.ir.darkick.uk.prg24.ir.hiword.ir.mekanik-bartar.ir.&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d&@proxyhubs|\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -175,9 +163,9 @@
             "server": "www.bolddata.sbs.",
             "port": "443",
             "secret": "7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==",
-            "name": "@ProxyMTProto_tel|\ud83d\udea9"
+            "name": "@ProxyMTProto_tel|\ud83c\udde8\ud83c\udde6"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.bolddata.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==&@ProxyMTProto_tel|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=www.bolddata.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==&@ProxyMTProto_tel|\ud83c\udde8\ud83c\udde6"
     },
     {
         "scheme": "https",
@@ -202,6 +190,18 @@
             "name": "@russian_proxy|\ud83c\uddeb\ud83c\uddf7"
         },
         "link": "https:\/\/t.me\/proxy?server=146.59.139.120&port=4343&secret=7hYDAQIAAQAB_AMDhuJMOt1kbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20WAwECAAEAAQAAAAAAAAAAAAAAAAAAAAA&@russian_proxy|\ud83c\uddeb\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "91.201.113.92",
+            "port": "9443",
+            "secret": "ee4416004416004400441604416000441664646e2e79656b74616e65742e636f6d64646e2e79656b74616e65742e636f6d64646e2e79656b74616e65742e636f6d1603010200010001000000000000000000000000",
+            "name": "@V2rayng_Fast|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=91.201.113.92&port=9443&secret=ee4416004416004400441604416000441664646e2e79656b74616e65742e636f6d64646e2e79656b74616e65742e636f6d64646e2e79656b74616e65742e636f6d1603010200010001000000000000000000000000&@V2rayng_Fast|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
