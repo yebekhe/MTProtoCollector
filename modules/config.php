@@ -22,7 +22,8 @@ $sources = [
     "PAINB0Y",
     "proxy_kafee",
     "alephproxy",
-    "YekoyekVpn"
+    "YekoyekVpn",
+    "ProxyForOpeta"
 ];
 
 ?>
