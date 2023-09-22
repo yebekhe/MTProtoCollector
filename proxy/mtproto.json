@@ -136,6 +136,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "46.102.156.167",
+            "port": "1012",
+            "secret": "ed8209eeaeae22c8b36a318929754aec",
+            "name": "@ProxyDaemi|\ud83c\udde6\ud83c\uddf9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=46.102.156.167&port=1012&secret=ed8209eeaeae22c8b36a318929754aec&@ProxyDaemi|\ud83c\udde6\ud83c\uddf9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "I__--_A.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.timesofindia.space.",
             "port": "443",
             "secret": "7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==",
