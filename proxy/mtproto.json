@@ -7,9 +7,9 @@
             "server": "hatami.ir.magasak.ir.persia_n-gas.ir.niknamazma.com.goloney.ir.takhtgaz.com.profesorpie.com.ntkhost.c__om.hamed-maleki.ir.ba_hmanmoto_rs.ir.pts-ha_lal.ir.isshinryukarate.ir.actgroup.ir.kooshast.com.parcooc.com.lianashop.ir.hoonamplast.com.zakhmkari.info.",
             "port": "443",
             "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e696f",
-            "name": "@Lion_MTProto|\ud83c\udde8\ud83c\udde6"
+            "name": "@Lion_MTProto|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=hatami.ir.magasak.ir.persia_n-gas.ir.niknamazma.com.goloney.ir.takhtgaz.com.profesorpie.com.ntkhost.c__om.hamed-maleki.ir.ba_hmanmoto_rs.ir.pts-ha_lal.ir.isshinryukarate.ir.actgroup.ir.kooshast.com.parcooc.com.lianashop.ir.hoonamplast.com.zakhmkari.info.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e696f&@Lion_MTProto|\ud83c\udde8\ud83c\udde6"
+        "link": "https:\/\/t.me\/proxy?server=hatami.ir.magasak.ir.persia_n-gas.ir.niknamazma.com.goloney.ir.takhtgaz.com.profesorpie.com.ntkhost.c__om.hamed-maleki.ir.ba_hmanmoto_rs.ir.pts-ha_lal.ir.isshinryukarate.ir.actgroup.ir.kooshast.com.parcooc.com.lianashop.ir.hoonamplast.com.zakhmkari.info.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e696f&@Lion_MTProto|\ud83d\udea9"
     },
     {
         "scheme": "https",
@@ -282,6 +282,18 @@
         "query": {
             "server": "137.184.4.171",
             "port": "443",
+            "secret": "dd0ef5d9234ede6c7c6542b9c30d173f94",
+            "name": "@alephproxy|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=137.184.4.171&port=443&secret=dd0ef5d9234ede6c7c6542b9c30d173f94&@alephproxy|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "137.184.4.171",
+            "port": "443",
             "secret": "ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
             "name": "@alephproxy|\ud83c\uddfa\ud83c\uddf8"
         },
@@ -322,17 +334,5 @@
             "name": "@YekoyekVpn|\ud83c\uddf7\ud83c\uddfa"
         },
         "link": "https:\/\/t.me\/proxy?server=95.181.173.37&port=4&secret=ee0e5884ec553b12bc330696b5d24bf3f37777772e636c6f7564666c6172652e636f6d&@YekoyekVpn|\ud83c\uddf7\ud83c\uddfa"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "157.245.34.20",
-            "port": "443",
-            "secret": "ee8f691dcb3418de4f297d69290fe32a4073332e616d617a6f6e6177732e636f6d",
-            "name": "@ProxyForOpeta|\ud83c\uddec\ud83c\udde7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=157.245.34.20&port=443&secret=ee8f691dcb3418de4f297d69290fe32a4073332e616d617a6f6e6177732e636f6d&@ProxyForOpeta|\ud83c\uddec\ud83c\udde7"
     }
 ]
