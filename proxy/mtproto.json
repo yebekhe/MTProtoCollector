@@ -4,18 +4,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "partsome.globalmine.beauty",
-            "port": "443",
-            "secret": "7jK5IN_7UWQwKOL2uHjU6sEgICAgIA",
-            "name": "@GlypeX|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=partsome.globalmine.beauty&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgIA&@GlypeX|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "89.251.16.75",
             "port": "2",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
@@ -274,5 +262,29 @@
             "name": "@YekoyekVpn|\ud83c\uddf7\ud83c\uddfa"
         },
         "link": "https:\/\/t.me\/proxy?server=109.107.181.108&port=13&secret=eeb0b188aa63698d22af369d292cd5ca697777772e636c6f7564666c6172652e636f6d&@YekoyekVpn|\ud83c\uddf7\ud83c\uddfa"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "109.107.181.108",
+            "port": "13",
+            "secret": "eea6a987ac168618b2b3fb08cef20e1e817777772e636c6f7564666c6172652e636f6d",
+            "name": "@YekoyekVpn|\ud83c\uddf7\ud83c\uddfa"
+        },
+        "link": "https:\/\/t.me\/proxy?server=109.107.181.108&port=13&secret=eea6a987ac168618b2b3fb08cef20e1e817777772e636c6f7564666c6172652e636f6d&@YekoyekVpn|\ud83c\uddf7\ud83c\uddfa"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "37.27.16.232",
+            "port": "443",
+            "secret": "7hYDAQIAAQAB_AMDhuJMOt1wcGxlLmNvbW15LnNoYXBhcmFrLmlyLWRsLmdvb2dsZS5jb20tZmFyYWthdi5jb20ZCQIFAAQABAAAAAAAAAAAAAAAAAAAAAA",
+            "name": "@ProxyForOpeta|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=37.27.16.232&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1wcGxlLmNvbW15LnNoYXBhcmFrLmlyLWRsLmdvb2dsZS5jb20tZmFyYWthdi5jb20ZCQIFAAQABAAAAAAAAAAAAAAAAAAAAAA&@ProxyForOpeta|\ud83c\uddeb\ud83c\uddee"
     }
 ]
