@@ -28,12 +28,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "saadatazmoon.ir.alirezasalimii.com.dibigram.com.dreidy.ir.xn--mgbb1_a8eaj.com.ab-ups.ir.i_ranikan.ir.onsgem.ir.dayere.com.shahr_azma.ir.nys24.ir.greatc__olor.ir.nazarsa_njikar.ir.ana_kimia.com.loomir.co.kanoonkaryabi.ir.inobebar.ir.holdingrezaii.digital",
+            "port": "443",
+            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
+            "name": "@ProxyMTProto|\ud83c\uddec\ud83c\udde7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=saadatazmoon.ir.alirezasalimii.com.dibigram.com.dreidy.ir.xn--mgbb1_a8eaj.com.ab-ups.ir.i_ranikan.ir.onsgem.ir.dayere.com.shahr_azma.ir.nys24.ir.greatc__olor.ir.nazarsa_njikar.ir.ana_kimia.com.loomir.co.kanoonkaryabi.ir.inobebar.ir.holdingrezaii.digital&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyMTProto|\ud83c\uddec\ud83c\udde7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "vark.ir.toolgraph.ir.shiraz-service.com.ahc.ir.khodro_parts.c_om.sakhaii.ir.myphone-sh_op.ir.pejmanahmadi.ir.chemehome.ir.imani45.ir.roo_staa.ir.hamann-motorsports.ir.ttaco.com.faradat_agroup.ir.lavaze_mdavari.ir.ariamahankabir.com.stablizeramin.website",
             "port": "443",
             "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@ProxyMTProto|\ud83d\udea9"
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=vark.ir.toolgraph.ir.shiraz-service.com.ahc.ir.khodro_parts.c_om.sakhaii.ir.myphone-sh_op.ir.pejmanahmadi.ir.chemehome.ir.imani45.ir.roo_staa.ir.hamann-motorsports.ir.ttaco.com.faradat_agroup.ir.lavaze_mdavari.ir.ariamahankabir.com.stablizeramin.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=vark.ir.toolgraph.ir.shiraz-service.com.ahc.ir.khodro_parts.c_om.sakhaii.ir.myphone-sh_op.ir.pejmanahmadi.ir.chemehome.ir.imani45.ir.roo_staa.ir.hamann-motorsports.ir.ttaco.com.faradat_agroup.ir.lavaze_mdavari.ir.ariamahankabir.com.stablizeramin.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -82,18 +94,6 @@
             "name": "@TelMTProto|\ud83c\uddeb\ud83c\uddee"
         },
         "link": "https:\/\/t.me\/proxy?server=135.181.86.139&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@TelMTProto|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "matcore.ir.bonyadmos_tazafan.com.go_ftemane-enghelab.com.tansuu.ir.sarfarazan.com.peyk_ekala.com.hamlift.ir.virato_ys.ir.alaeib_and_saw.ir.dkkh.ir.srt.ir.bsf-co.ir.maktab-dg.ir.mirtrading.ir.sinatd.com.i_ranstore1.ir.vakilbashi.org.stablizeramin.website.",
-            "port": "443",
-            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=matcore.ir.bonyadmos_tazafan.com.go_ftemane-enghelab.com.tansuu.ir.sarfarazan.com.peyk_ekala.com.hamlift.ir.virato_ys.ir.alaeib_and_saw.ir.dkkh.ir.srt.ir.bsf-co.ir.maktab-dg.ir.mirtrading.ir.sinatd.com.i_ranstore1.ir.vakilbashi.org.stablizeramin.website.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@MTP_roto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -299,6 +299,18 @@
             "name": "@proxy_kafee|\ud83c\uddf3\ud83c\uddf1"
         },
         "link": "https:\/\/t.me\/proxy?server=212.118.37.167&port=7980&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616B61762E636F6d190902050004000400000000000000000000000000000000&@proxy_kafee|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "146.190.129.54",
+            "port": "443",
+            "secret": "dd0ef5d9234ede6c7c6542b9c30d173f94",
+            "name": "@alephproxy|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=146.190.129.54&port=443&secret=dd0ef5d9234ede6c7c6542b9c30d173f94&@alephproxy|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
