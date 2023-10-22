@@ -4,6 +4,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "fullnetwork.etherminer.lol",
+            "port": "443",
+            "secret": "7jK5IN_7UWQwKOL2uHjU6sEgICAgIA",
+            "name": "@GlypeX|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=fullnetwork.etherminer.lol&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgIA&@GlypeX|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "167.235.60.135",
             "port": "80",
             "secret": "EE1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D1603010200010101010101010101010101010101010101011603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D",
@@ -286,6 +298,18 @@
             "name": "@daorzadannet|\ud83c\uddfa\ud83c\uddf8"
         },
         "link": "https:\/\/t.me\/proxy?server=198.98.60.193&port=2021&secret=ddf7dabb7fe33fa0f956cf5d253d2547ff&@daorzadannet|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "45.61.188.220",
+            "port": "2022",
+            "secret": "ddf7dabb7fe33fa0f956cf5d253d2547ff",
+            "name": "@daorzadannet|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=45.61.188.220&port=2022&secret=ddf7dabb7fe33fa0f956cf5d253d2547ff&@daorzadannet|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
