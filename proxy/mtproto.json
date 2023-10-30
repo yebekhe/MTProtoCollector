@@ -4,6 +4,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "fullnetwork.etherminer.lol",
+            "port": "443",
+            "secret": "7jK5IN_7UWQwKOL2uHjU6sEgICAgIA",
+            "name": "@GlypeX|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=fullnetwork.etherminer.lol&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgIA&@GlypeX|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "65.109.58.46",
             "port": "100",
             "secret": "7hYDAQIAAQAB_AMDhuJMOt1tc1YycmF5LXBvVjJyYXktZ1JQQy1XUy5jaFYycmF5LmNmZBYDAQIBBBYDAQIBBBYDAQIBBBYDAQIBBBYDAQIBBBYDAQIBBBYDAQIBBBYDAQIBBBYDAQIBBBYDAQABIAAAAAAAAAAAAAAAAAAAAA",
@@ -148,12 +160,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "109.234.38.69",
-            "port": "2",
+            "server": "88.198.202.25",
+            "port": "8085",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@ProxyDaemi|\ud83c\uddf3\ud83c\uddf1"
+            "name": "@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=109.234.38.69&port=2&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@ProxyDaemi|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=88.198.202.25&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "135.181.95.127",
+            "port": "8085",
+            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
+            "name": "@ProxyMTProto_tel|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=135.181.95.127&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@ProxyMTProto_tel|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
