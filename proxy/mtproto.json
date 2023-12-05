@@ -304,6 +304,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "91.107.232.228",
+            "port": "7443",
+            "secret": "68b4a334dfdd73d489aebfd05091762c",
+            "name": "@proxy_kafee|\ud83c\uddee\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=91.107.232.228&port=7443&secret=68b4a334dfdd73d489aebfd05091762c&@proxy_kafee|\ud83c\uddee\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "138.201.35.161",
             "port": "3",
             "secret": "3RYDAQIAAQAB_AMDhuJMOt0=",
