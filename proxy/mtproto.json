@@ -52,12 +52,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "65.21.106.52",
-            "port": "443",
-            "secret": "ee1ce62bd818259b9c72b6cf417d319a197777772e646967696b616c612e636f6d",
-            "name": "@TelMTProto|\ud83c\uddeb\ud83c\uddee"
+            "server": "144.76.216.61",
+            "port": "8083",
+            "secret": "ee1603010200010001fc030386e24c3add33412e6d6574616c2d68616d6d65722e6465",
+            "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=65.21.106.52&port=443&secret=ee1ce62bd818259b9c72b6cf417d319a197777772e646967696b616c612e636f6d&@TelMTProto|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=144.76.216.61&port=8083&secret=ee1603010200010001fc030386e24c3add33412e6d6574616c2d68616d6d65722e6465&@MTP_roto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -76,6 +76,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "49.13.124.187",
+            "port": "3443",
+            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
+            "name": "@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=49.13.124.187&port=3443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "188.34.184.238",
             "port": "443",
             "secret": "DD00000000000000000000000000000000DE66",
@@ -88,12 +100,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "I__--_A.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.fliarbi.lat.",
+            "server": "I2LY2.7B4IJA2AD.8E5J.10X1.1.1.1.AM8LM7QBZ.V9PF1L0.HWA.45U.C9O-MRA7XYT.2I36.LMN.MYW8X8Z8T-IWJMSU4FB.M3-O2M1.I2I92NC2O.VSZ7.3F2GVYK_D87XVI80-JK.3468H60_D0OAERVAFZ.JND.EW.RHDZIQD6-GMAT.69UV9E.2JKXS3GLBTM.FBOWPU.R5.4X-QY5HA0.QAWXPM.MIdD.Dwww.DW3D.tealhq.cfd.",
             "port": "443",
             "secret": "7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=",
             "name": "@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=I__--_A.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.fliarbi.lat.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=&@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=I2LY2.7B4IJA2AD.8E5J.10X1.1.1.1.AM8LM7QBZ.V9PF1L0.HWA.45U.C9O-MRA7XYT.2I36.LMN.MYW8X8Z8T-IWJMSU4FB.M3-O2M1.I2I92NC2O.VSZ7.3F2GVYK_D87XVI80-JK.3468H60_D0OAERVAFZ.JND.EW.RHDZIQD6-GMAT.69UV9E.2JKXS3GLBTM.FBOWPU.R5.4X-QY5HA0.QAWXPM.MIdD.Dwww.DW3D.tealhq.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=&@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -238,18 +250,6 @@
             "name": "@YekoyekVpn|\ud83c\uddf7\ud83c\uddfa"
         },
         "link": "https:\/\/t.me\/proxy?server=5.182.87.41&port=2&secret=ee85ab776fab792ada9d6001057be088f97777772e736f667439382e6972&@YekoyekVpn|\ud83c\uddf7\ud83c\uddfa"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "159.69.40.2",
-            "port": "7443",
-            "secret": "9159b05090a7598853e02843a99f6371",
-            "name": "@ProxyForOpeta|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=159.69.40.2&port=7443&secret=9159b05090a7598853e02843a99f6371&@ProxyForOpeta|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
