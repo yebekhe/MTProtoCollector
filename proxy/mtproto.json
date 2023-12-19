@@ -76,18 +76,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "167.235.245.179",
-            "port": "7980",
-            "secret": "7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA",
-            "name": "@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=167.235.245.179&port=7980&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA&@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "147.182.254.71",
             "port": "7980",
             "secret": "7r8NREGDXYK-XbHXOqtg9C92YW4ubmFqdmEuY29t",
@@ -112,18 +100,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "185.222.28.238",
-            "port": "443",
-            "secret": "7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAgABAA",
-            "name": "@russian_proxy|\ud83c\uddea\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=185.222.28.238&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAgABAA&@russian_proxy|\ud83c\uddea\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "89.41.181.118",
             "port": "443",
             "secret": "ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d",
@@ -142,6 +118,18 @@
             "name": "@V2rayng_Fast|\ud83c\uddf3\ud83c\uddf1"
         },
         "link": "https:\/\/t.me\/proxy?server=195.2.93.225&port=10&secret=3RYDAQIAAQAB_AMDhuJMOt1AAAAAAAAAAAAAAAAAAAAAmYXJha2F2LmNvbQ&@V2rayng_Fast|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "5.78.100.239",
+            "port": "7980",
+            "secret": "7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA",
+            "name": "@v2rayNGNeT|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=5.78.100.239&port=7980&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA&@v2rayNGNeT|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
