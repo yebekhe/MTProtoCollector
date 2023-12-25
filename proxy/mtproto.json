@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "128.0.41.128",
+            "port": "4443",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
+            "name": "@iMTProto|\ud83c\uddf7\ud83c\uddf4"
+        },
+        "link": "https:\/\/t.me\/proxy?server=128.0.41.128&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==&@iMTProto|\ud83c\uddf7\ud83c\uddf4"
+    }
+]
