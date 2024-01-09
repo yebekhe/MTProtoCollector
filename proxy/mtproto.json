@@ -220,6 +220,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "94.75.250.15",
+            "port": "443",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
+            "name": "@russian_proxy|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=94.75.250.15&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==&@russian_proxy|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "37.27.39.25",
             "port": "443",
             "secret": "FgMBAgABAAH8AwOG4kw63Q==",
