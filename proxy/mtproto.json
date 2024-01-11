@@ -52,18 +52,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "148.251.224.179",
-            "port": "8085",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
-            "name": "@iMTProto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=148.251.224.179&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==&@iMTProto|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "49.13.158.10",
             "port": "7980",
             "secret": "AAAAAAAAAAAAAAAAAAAAABQ=",
@@ -334,18 +322,6 @@
             "name": "@YekoyekVpn|\ud83c\uddf7\ud83c\uddfa"
         },
         "link": "https:\/\/t.me\/proxy?server=45.15.159.66&port=1&secret=ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d&@YekoyekVpn|\ud83c\uddf7\ud83c\uddfa"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "148.251.224.225",
-            "port": "8085",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
-            "name": "@ProxyForOpeta|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=148.251.224.225&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyForOpeta|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
