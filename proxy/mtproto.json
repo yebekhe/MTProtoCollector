@@ -112,18 +112,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "64.52.81.12",
-            "port": "3443",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
-            "name": "@ProxyHagh|\ud83c\uddec\ud83c\udde7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=64.52.81.12&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyHagh|\ud83c\uddec\ud83c\udde7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "95.217.118.144",
             "port": "8085",
             "secret": "FgMBAgABAAH8AwOG4kw63Q==",
@@ -163,9 +151,9 @@
             "server": "www.ufinebattery.space.",
             "port": "443",
             "secret": "7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==",
-            "name": "@ProxyMTProto_tel|\ud83c\uddf3\ud83c\uddf1"
+            "name": "@ProxyMTProto_tel|\ud83c\uddec\ud83c\udde7"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.ufinebattery.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==&@ProxyMTProto_tel|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=www.ufinebattery.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==&@ProxyMTProto_tel|\ud83c\uddec\ud83c\udde7"
     },
     {
         "scheme": "https",
