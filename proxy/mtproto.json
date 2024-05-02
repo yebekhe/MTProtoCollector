@@ -4,18 +4,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "185.222.28.202",
-            "port": "8085",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q",
-            "name": "@Lion_MTProto|\ud83c\uddea\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=185.222.28.202&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q&@Lion_MTProto|\ud83c\uddea\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "new.rubika-iir.co.uk.",
             "port": "443",
             "secret": "ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d",
@@ -46,6 +34,18 @@
             "name": "@proxyy|\ud83c\uddfa\ud83c\uddf8"
         },
         "link": "https:\/\/t.me\/proxy?server=5.161.64.187&port=8085&secret=dd1603010200010001fc030386e24c3add&@proxyy|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "185.222.28.202",
+            "port": "8085",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q",
+            "name": "@russian_proxy|\ud83c\uddea\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=185.222.28.202&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q&@russian_proxy|\ud83c\uddea\ud83c\uddf8"
     },
     {
         "scheme": "https",
