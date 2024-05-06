@@ -16,6 +16,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "157.90.128.230",
+            "port": "7443",
+            "secret": "FgMBAgABAAH8AwOG4kw63QBQ",
+            "name": "@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=157.90.128.230&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ&@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "free.rubika-iir.co.uk.",
             "port": "443",
             "secret": "ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d",
@@ -70,18 +82,6 @@
             "name": "@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=91.107.211.229&port=43&secret=7v____________________8=&@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "bro.now.lets.begin.we.are.here.todownipanmudfuk.wwww.digikala.com.iranserver.com.bing.com.gmail.com.nic.ir.thisisme.ir.mihanwebhost.ejhost.ir.987.entekhab.ddns.net.dy3nu.com.no2ip.with1outip.withounti.justfucem.hehehehe2e.nokwabcde.famous----trader.info.",
-            "port": "443",
-            "secret": "dd00000000000000000000000000000000",
-            "name": "@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=bro.now.lets.begin.we.are.here.todownipanmudfuk.wwww.digikala.com.iranserver.com.bing.com.gmail.com.nic.ir.thisisme.ir.mihanwebhost.ejhost.ir.987.entekhab.ddns.net.dy3nu.com.no2ip.with1outip.withounti.justfucem.hehehehe2e.nokwabcde.famous----trader.info.&port=443&secret=dd00000000000000000000000000000000&@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
