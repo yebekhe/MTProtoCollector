@@ -4,6 +4,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "128.140.13.248",
+            "port": "443",
+            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
+            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=128.140.13.248&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "oomm-are.rubika-iir.co.uk.",
             "port": "443",
             "secret": "ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d",
@@ -22,6 +34,18 @@
             "name": "@Lion_MTProto|\ud83c\uddf3\ud83c\uddf1"
         },
         "link": "https:\/\/t.me\/proxy?server=79.127.227.148&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q&@Lion_MTProto|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "www.thisisnotufo.info.",
+            "port": "443",
+            "secret": "7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==",
+            "name": "@ProxyMTProto|\ud83c\udde8\ud83c\udde6"
+        },
+        "link": "https:\/\/t.me\/proxy?server=www.thisisnotufo.info.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==&@ProxyMTProto|\ud83c\udde8\ud83c\udde6"
     },
     {
         "scheme": "https",
@@ -76,18 +100,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "ahvaz.ir.sinasms.ir.arvingm.com.ashayerekerman.com.akhale.ir.mjalili.ir.toubatour.ir.roshantir.com.fatemehhashemi.ir.robban.ir.iranserve.ir.ndrorg.ir.landeno.ir.drhamidrezaeghbali.com.memarico.com.maharatamoozi.ir.irandnn.net.medikala.com.miladshop.info.",
-            "port": "443",
-            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
-            "name": "@MTP_roto|\ud83c\uddeb\ud83c\uddf7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=ahvaz.ir.sinasms.ir.arvingm.com.ashayerekerman.com.akhale.ir.mjalili.ir.toubatour.ir.roshantir.com.fatemehhashemi.ir.robban.ir.iranserve.ir.ndrorg.ir.landeno.ir.drhamidrezaeghbali.com.memarico.com.maharatamoozi.ir.irandnn.net.medikala.com.miladshop.info.&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@MTP_roto|\ud83c\uddeb\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "mci.ir.mizanbotch.ir.",
             "port": "25",
             "secret": "FgMBAgABAAH8AwOG4kw63Q==",
@@ -124,12 +136,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "185.222.28.20",
-            "port": "33",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q",
-            "name": "@proxyy|\ud83c\uddea\ud83c\uddf8"
+            "server": "ahvaz.ir.sinasms.ir.arvingm.com.ashayerekerman.com.akhale.ir.mjalili.ir.toubatour.ir.roshantir.com.fatemehhashemi.ir.robban.ir.iranserve.ir.ndrorg.ir.landeno.ir.drhamidrezaeghbali.com.memarico.com.maharatamoozi.ir.irandnn.net.medikala.com.miladshop.info.",
+            "port": "443",
+            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
+            "name": "@ProxyDaemi|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=185.222.28.20&port=33&secret=FgMBAgABAAH8AwOG4kw63Q&@proxyy|\ud83c\uddea\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=ahvaz.ir.sinasms.ir.arvingm.com.ashayerekerman.com.akhale.ir.mjalili.ir.toubatour.ir.roshantir.com.fatemehhashemi.ir.robban.ir.iranserve.ir.ndrorg.ir.landeno.ir.drhamidrezaeghbali.com.memarico.com.maharatamoozi.ir.irandnn.net.medikala.com.miladshop.info.&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyDaemi|\ud83c\uddeb\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "nobify.org.maseravi.info.",
+            "port": "443",
+            "secret": "7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==",
+            "name": "@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=nobify.org.maseravi.info.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==&@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -139,9 +163,21 @@
             "server": "185.115.161.85",
             "port": "67",
             "secret": "FgMBAgABAAH8AwOG4kw63Q",
-            "name": "@russian_proxy|\ud83c\uddf2\ud83c\udde9"
+            "name": "@proxyy|\ud83c\uddf2\ud83c\udde9"
         },
-        "link": "https:\/\/t.me\/proxy?server=185.115.161.85&port=67&secret=FgMBAgABAAH8AwOG4kw63Q&@russian_proxy|\ud83c\uddf2\ud83c\udde9"
+        "link": "https:\/\/t.me\/proxy?server=185.115.161.85&port=67&secret=FgMBAgABAAH8AwOG4kw63Q&@proxyy|\ud83c\uddf2\ud83c\udde9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "185.222.28.20",
+            "port": "33",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q",
+            "name": "@proxyy|\ud83c\uddea\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=185.222.28.20&port=33&secret=FgMBAgABAAH8AwOG4kw63Q&@proxyy|\ud83c\uddea\ud83c\uddf8"
     },
     {
         "scheme": "https",
