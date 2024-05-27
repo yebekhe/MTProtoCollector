@@ -4,6 +4,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "goohdflare.com.nokia.com.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.ww_w.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.ever-yone.i_am.oprator-mc1d-tecnologi.co.uk.",
+            "port": "7443",
+            "secret": "FgMBAgABAAH8AwOG4kw63QBQ",
+            "name": "@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=goohdflare.com.nokia.com.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.ww_w.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.ever-yone.i_am.oprator-mc1d-tecnologi.co.uk.&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ&@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "103.69.224.94",
             "port": "150",
             "secret": "FgMBAgABAAH8AwOG4kw63Q==",
@@ -28,24 +40,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "185.115.161.206",
-            "port": "23",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q",
+            "server": "185.115.161.254",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add6170702E6E616A76612E636F6D",
             "name": "@proxyhubs|\ud83c\uddf2\ud83c\udde9"
         },
-        "link": "https:\/\/t.me\/proxy?server=185.115.161.206&port=23&secret=FgMBAgABAAH8AwOG4kw63Q&@proxyhubs|\ud83c\uddf2\ud83c\udde9"
+        "link": "https:\/\/t.me\/proxy?server=185.115.161.254&port=443&secret=ee1603010200010001fc030386e24c3add6170702E6E616A76612E636F6D&@proxyhubs|\ud83c\uddf2\ud83c\udde9"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "cointoin.ir.ltcoin-plus.info.",
-            "port": "443",
-            "secret": "7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==",
-            "name": "@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
+            "server": "185.115.161.206",
+            "port": "23",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q",
+            "name": "@proxyhubs|\ud83c\uddf2\ud83c\udde9"
         },
-        "link": "https:\/\/t.me\/proxy?server=cointoin.ir.ltcoin-plus.info.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==&@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=185.115.161.206&port=23&secret=FgMBAgABAAH8AwOG4kw63Q&@proxyhubs|\ud83c\uddf2\ud83c\udde9"
     },
     {
         "scheme": "https",
@@ -70,18 +82,6 @@
             "name": "@proxyy|\ud83c\udde7\ud83c\uddec"
         },
         "link": "https:\/\/t.me\/proxy?server=88.80.135.148&port=777&secret=FgMBAgABAAH8AwOG4kw63Q==&@proxyy|\ud83c\udde7\ud83c\uddec"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "185.115.161.254",
-            "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add6170702E6E616A76612E636F6D",
-            "name": "@proxyy|\ud83c\uddf2\ud83c\udde9"
-        },
-        "link": "https:\/\/t.me\/proxy?server=185.115.161.254&port=443&secret=ee1603010200010001fc030386e24c3add6170702E6E616A76612E636F6D&@proxyy|\ud83c\uddf2\ud83c\udde9"
     },
     {
         "scheme": "https",
@@ -115,17 +115,5 @@
             "name": "@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
         },
         "link": "https:\/\/t.me\/proxy?server=&port=&secret=&@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "185.115.161.181",
-            "port": "4443",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q",
-            "name": "@ProxyForOpeta|\ud83c\uddf2\ud83c\udde9"
-        },
-        "link": "https:\/\/t.me\/proxy?server=185.115.161.181&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q&@ProxyForOpeta|\ud83c\uddf2\ud83c\udde9"
     }
 ]
