@@ -16,12 +16,36 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "vidco.ir.iproc.ir.yekbarmasraf.shop.iranedms.ir.sho-hrehpourshirazi.com.olyaclinic.com.masje-dkar.ir.nibcompany.ir.matinruyan.ir.aran-es.com.cookibox.ir.rasa-pardaz.com.zirbana.i-nfo.naseralmahdi.ir.zarifplus.com.candokala.com.taaknetnewinternet.website",
+            "server": "lotus-de.ir.falehafezonline.com.joombarg.ir.isot-ope.ir.ne-shat-dubai.com.masjed007860.ir.shp24.ir.ptcearningmoney.com.redgalaxy-studio.com.ptsmachinery.ir.hydrocen-ter-co.net.tohaf.ir.digigm.ir.bimeiran-salemi.ir.mehraria-metal.com.mosavimobile.website",
             "port": "443",
             "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
-            "name": "@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
+            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=vidco.ir.iproc.ir.yekbarmasraf.shop.iranedms.ir.sho-hrehpourshirazi.com.olyaclinic.com.masje-dkar.ir.nibcompany.ir.matinruyan.ir.aran-es.com.cookibox.ir.rasa-pardaz.com.zirbana.i-nfo.naseralmahdi.ir.zarifplus.com.candokala.com.taaknetnewinternet.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=lotus-de.ir.falehafezonline.com.joombarg.ir.isot-ope.ir.ne-shat-dubai.com.masjed007860.ir.shp24.ir.ptcearningmoney.com.redgalaxy-studio.com.ptsmachinery.ir.hydrocen-ter-co.net.tohaf.ir.digigm.ir.bimeiran-salemi.ir.mehraria-metal.com.mosavimobile.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "web.cloudflare.com.www.gmail.com.vordok.sbs",
+            "port": "1919",
+            "secret": "7HQighJPBNMYVRNB6tdkVw",
+            "name": "@Myporoxy|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=web.cloudflare.com.www.gmail.com.vordok.sbs&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@Myporoxy|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "Web.cloudflare.com.www.gmail.com.vordok.sbs",
+            "port": "1919",
+            "secret": "7HQighJPBNMYVRNB6tdkVw",
+            "name": "@Myporoxy|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=Web.cloudflare.com.www.gmail.com.vordok.sbs&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@Myporoxy|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
@@ -187,29 +211,5 @@
             "name": "@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
         },
         "link": "https:\/\/t.me\/proxy?server=&port=&secret=&@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "172.232.218.247",
-            "port": "443",
-            "secret": "3fQ1mpsyX_HR5QhN8OD3U3s",
-            "name": "@ProxyForOpeta|\ud83c\uddee\ud83c\uddf9"
-        },
-        "link": "https:\/\/t.me\/proxy?server=172.232.218.247&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s&@ProxyForOpeta|\ud83c\uddee\ud83c\uddf9"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "116.203.72.67",
-            "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add6c696e75782d70726f2e6f7267",
-            "name": "@ProxyForOpeta|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=116.203.72.67&port=443&secret=ee1603010200010001fc030386e24c3add6c696e75782d70726f2e6f7267&@ProxyForOpeta|\ud83c\udde9\ud83c\uddea"
     }
 ]
