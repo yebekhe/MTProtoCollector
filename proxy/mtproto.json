@@ -16,54 +16,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "Dash.Cloudflare.com.www.google.com.hercoll.pw",
-            "port": "1919",
-            "secret": "7HQighJPBNMYVRNB6tdkVw",
-            "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=Dash.Cloudflare.com.www.google.com.hercoll.pw&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@Myporoxy|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "49.12.45.235",
-            "port": "4045",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
-            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=49.12.45.235&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==&@TelMTProto|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "50.7.87.85",
-            "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add6c696e75782d70726f2e6f7267",
-            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=50.7.87.85&port=443&secret=ee1603010200010001fc030386e24c3add6c696e75782d70726f2e6f7267&@TelMTProto|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "iebra.ir.poumar.com.penhanak.ir.drangaji.ir.irpsx.net.goldentrade1.ir.yazdiec.ir.joombarg.com.pl-ib.co.tahacom.ir.sanakharid.ir.jamiat-bt.com.penhanak.ir.akrenk.com.rusaribazar.ir.parsa-r.ir.sim-biolab.com.aradsft1.com.iran-side.com.mosavimobile.website",
-            "port": "443",
-            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
-            "name": "@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=iebra.ir.poumar.com.penhanak.ir.drangaji.ir.irpsx.net.goldentrade1.ir.yazdiec.ir.joombarg.com.pl-ib.co.tahacom.ir.sanakharid.ir.jamiat-bt.com.penhanak.ir.akrenk.com.rusaribazar.ir.parsa-r.ir.sim-biolab.com.aradsft1.com.iran-side.com.mosavimobile.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.dns_internet.dns-net.co.uk.",
             "port": "7443",
             "secret": "FgMBAgABAAH8AwOG4kw63QPQ",
@@ -112,6 +64,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "78.47.183.125",
+            "port": "4045",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
+            "name": "@PinkProxy|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=78.47.183.125&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==&@PinkProxy|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "77.238.253.38",
             "port": "33",
             "secret": "7HQighJPBNEnVRNB6tdkVw",
@@ -127,5 +91,17 @@
             "name": "@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
         },
         "link": "https:\/\/t.me\/proxy?server=&port=&secret=&@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "89.41.181.47",
+            "port": "8443",
+            "secret": "7HQighJPBNMYVRNB6tdkVw",
+            "name": "@ProxyForOpeta|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=89.41.181.47&port=8443&secret=7HQighJPBNMYVRNB6tdkVw&@ProxyForOpeta|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
