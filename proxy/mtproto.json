@@ -4,71 +4,23 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.13.92.53",
+            "server": "91.107.143.68",
+            "port": "443",
+            "secret": "7HQighJPBNMYVRNB6tdkVw",
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=91.107.143.68&port=443&secret=7HQighJPBNMYVRNB6tdkVw&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "Site.cloudflare.com.www.play.com.dorkamos.baby",
             "port": "1919",
             "secret": "7HQighJPBNMYVRNB6tdkVw",
-            "name": "@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
+            "name": "@Myporoxy|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=49.13.92.53&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "94.130.77.215",
-            "port": "7",
-            "secret": "7HQighJPBNEnVRNB6tdkVw",
-            "name": "@V2rayng_Fast|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=94.130.77.215&port=7&secret=7HQighJPBNEnVRNB6tdkVw&@V2rayng_Fast|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "vasli.cloudflare.com.check-host.net.cdn.www.activ.com.cloudflare.com.qavi-bod-nabod.ir",
-            "port": "51515",
-            "secret": "7HQighJPBNMYVRNB6tdkVw",
-            "name": "@V2rayng_Fast|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=vasli.cloudflare.com.check-host.net.cdn.www.activ.com.cloudflare.com.qavi-bod-nabod.ir&port=51515&secret=7HQighJPBNMYVRNB6tdkVw&@V2rayng_Fast|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "103.69.224.141",
-            "port": "6",
-            "secret": "7HQighJPBNMYVRNB6tdkVw",
-            "name": "@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=103.69.224.141&port=6&secret=7HQighJPBNMYVRNB6tdkVw&@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "citroen-jaguar.ir.343-citroen-amr.com-mostang.com.ir.backlinesea.ga-codes.ferrari-ml-monster.co.uk.virtual-daily.co.uk.",
-            "port": "3040",
-            "secret": "7HQighJPBNMYVRNB6tdkVw",
-            "name": "@ProxyForOpeta|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=citroen-jaguar.ir.343-citroen-amr.com-mostang.com.ir.backlinesea.ga-codes.ferrari-ml-monster.co.uk.virtual-daily.co.uk.&port=3040&secret=7HQighJPBNMYVRNB6tdkVw&@ProxyForOpeta|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "86.107.50.250",
-            "port": "8443",
-            "secret": "7HQighJPBNMYVRNB6tdkVw",
-            "name": "@ProxyForOpeta|\ud83c\udde6\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=86.107.50.250&port=8443&secret=7HQighJPBNMYVRNB6tdkVw&@ProxyForOpeta|\ud83c\udde6\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=Site.cloudflare.com.www.play.com.dorkamos.baby&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@Myporoxy|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
