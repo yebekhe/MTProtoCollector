@@ -4,24 +4,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "78.46.220.133",
-            "port": "6",
+            "server": "65.109.189.77",
+            "port": "443",
             "secret": "7HQighJPBNMYVRNB6tdkVw",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+            "name": "@Lion_MTProto|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=78.46.220.133&port=6&secret=7HQighJPBNMYVRNB6tdkVw&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=65.109.189.77&port=443&secret=7HQighJPBNMYVRNB6tdkVw&@Lion_MTProto|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "Access.cloudflare.com.www.google.com.jockero.sbs",
+            "server": "78.46.186.241",
             "port": "1919",
             "secret": "7HQighJPBNMYVRNB6tdkVw",
-            "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=Access.cloudflare.com.www.google.com.jockero.sbs&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@Myporoxy|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=78.46.186.241&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -40,12 +40,36 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "116.202.11.143",
-            "port": "7443",
+            "server": "Dash.Cloudflare.com.www.google.com.hercoll.pw",
+            "port": "1919",
+            "secret": "7HQighJPBNMYVRNB6tdkVw",
+            "name": "@Myporoxy|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=Dash.Cloudflare.com.www.google.com.hercoll.pw&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@Myporoxy|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "49.13.236.149",
+            "port": "1919",
             "secret": "7HQighJPBNMYVRNB6tdkVw",
             "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=116.202.11.143&port=7443&secret=7HQighJPBNMYVRNB6tdkVw&@TelMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=49.13.236.149&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@TelMTProto|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "49.13.237.117",
+            "port": "1919",
+            "secret": "7HQighJPBNMYVRNB6tdkVw",
+            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=49.13.237.117&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@TelMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -64,24 +88,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "35.22.197.142.fint-www-hunbt-co-uk.ir",
-            "port": "30303",
+            "server": "103.69.224.218",
+            "port": "6",
             "secret": "7HQighJPBNMYVRNB6tdkVw",
-            "name": "@V2rayng_Fast|\ud83c\uddeb\ud83c\uddee"
+            "name": "@PinkProxy|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=35.22.197.142.fint-www-hunbt-co-uk.ir&port=30303&secret=7HQighJPBNMYVRNB6tdkVw&@V2rayng_Fast|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=103.69.224.218&port=6&secret=7HQighJPBNMYVRNB6tdkVw&@PinkProxy|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "65.109.189.77",
-            "port": "443",
+            "server": "35.22.197.142.fint-www-hunbt-co-uk.ir",
+            "port": "30303",
             "secret": "7HQighJPBNMYVRNB6tdkVw",
             "name": "@V2rayng_Fast|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=65.109.189.77&port=443&secret=7HQighJPBNMYVRNB6tdkVw&@V2rayng_Fast|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=35.22.197.142.fint-www-hunbt-co-uk.ir&port=30303&secret=7HQighJPBNMYVRNB6tdkVw&@V2rayng_Fast|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
