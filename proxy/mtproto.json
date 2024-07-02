@@ -16,11 +16,20 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "majidphp.ir.abisun.ir.snappbeauty.com.pyr.ir.pgacharter.com.gapgroup-co.com.sahele-qoo.com.wtakar-aj.com.foladiran.com.batarinha.ir.darianco.net.iranpharm.com.illaystudio.com.kahroba-j-ewell-e-ry.com.jkmserv.ir.dayere.org.karakar.ir.bandarmarket.website",
-            "port": "443",
-            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
+            "server": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.hercool.click.",
+            "port": "1919",
+            "secret": "eeRigzNJvXrFGRMCIMJdEAPQ",
+            "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=majidphp.ir.abisun.ir.snappbeauty.com.pyr.ir.pgacharter.com.gapgroup-co.com.sahele-qoo.com.wtakar-aj.com.foladiran.com.batarinha.ir.darianco.net.iranpharm.com.illaystudio.com.kahroba-j-ewell-e-ry.com.jkmserv.ir.dayere.org.karakar.ir.bandarmarket.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.hercool.click.&port=1919&secret=eeRigzNJvXrFGRMCIMJdEAPQ&@Myporoxy|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "name": "@ProxyForOpeta|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=&port=&secret=&@ProxyForOpeta|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
