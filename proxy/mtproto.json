@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "gtr.hezarsh-mashal0.co.uk.kprjhxrrjhkrs-pkcj.co.uk.clsjhxrrjhkrs-pkcj.co.uk.rglhxrrjhkrs-pgcj.co.uk.tlshxrrjhkrs-pgcj.co.uk.tplhxrrjhkrs-sscj.co.uk.",
+            "port": "7443",
+            "secret": "FgMBAgABAAH8AwOG4kw63QBQ",
+            "name": "@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=gtr.hezarsh-mashal0.co.uk.kprjhxrrjhkrs-pkcj.co.uk.clsjhxrrjhkrs-pkcj.co.uk.rglhxrrjhkrs-pgcj.co.uk.tlshxrrjhkrs-pgcj.co.uk.tplhxrrjhkrs-sscj.co.uk.&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ&@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "name": "@ProxyForOpeta|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=&port=&secret=&@ProxyForOpeta|\ud83c\uddfa\ud83c\uddf8"
+    }
+]
