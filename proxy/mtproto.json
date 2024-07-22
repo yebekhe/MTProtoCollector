@@ -4,12 +4,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.13.145.80",
+            "server": "116.203.167.81",
             "port": "443",
-            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
+            "secret": "7HQighJPBNMYVRNB6tdkVw",
+            "name": "@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=49.13.145.80&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=116.203.167.81&port=443&secret=7HQighJPBNMYVRNB6tdkVw&@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.abdsi-rah4r-gods.cfd.",
+            "port": "5892",
+            "secret": "eeRigzNJvXrFGRMCIMJdEAPQ",
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.abdsi-rah4r-gods.cfd.&port=5892&secret=eeRigzNJvXrFGRMCIMJdEAPQ&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -43,9 +55,9 @@
             "server": "fs24.ir.hosseingharibi.ir.shopiloo.ir.irandnn.net.ad-dco.co.ir.trimed.ir.saffron1torbat.com.hiword.ir.goobs.ir.kaman-hormozgan.com.tjketab.ir.abisun.ir.kamalmaleki.co.microplant.ir.digikalasend.ir.aps-cc.com.politek.ir.darmanyaran.ir.mohsenplastick.shop",
             "port": "443",
             "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
-            "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
+            "name": "@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=fs24.ir.hosseingharibi.ir.shopiloo.ir.irandnn.net.ad-dco.co.ir.trimed.ir.saffron1torbat.com.hiword.ir.goobs.ir.kaman-hormozgan.com.tjketab.ir.abisun.ir.kamalmaleki.co.microplant.ir.digikalasend.ir.aps-cc.com.politek.ir.darmanyaran.ir.mohsenplastick.shop&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@MTP_roto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=fs24.ir.hosseingharibi.ir.shopiloo.ir.irandnn.net.ad-dco.co.ir.trimed.ir.saffron1torbat.com.hiword.ir.goobs.ir.kaman-hormozgan.com.tjketab.ir.abisun.ir.kamalmaleki.co.microplant.ir.digikalasend.ir.aps-cc.com.politek.ir.darmanyaran.ir.mohsenplastick.shop&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -79,5 +91,29 @@
             "name": "@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
         },
         "link": "https:\/\/t.me\/proxy?server=&port=&secret=&@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "45.15.159.66",
+            "port": "1",
+            "secret": "ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d",
+            "name": "@YekoyekVpn|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=45.15.159.66&port=1&secret=ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d&@YekoyekVpn|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "152.42.149.198-rangoemi.clinet-chephost.ir",
+            "port": "2024",
+            "secret": "7okEtaDO73aMGYM-0QWXd4pkaXNjb3JkLmNvbQ==",
+            "name": "@ProxyForOpeta|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=152.42.149.198-rangoemi.clinet-chephost.ir&port=2024&secret=7okEtaDO73aMGYM-0QWXd4pkaXNjb3JkLmNvbQ==&@ProxyForOpeta|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
