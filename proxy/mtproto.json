@@ -28,6 +28,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "212.111.81.125",
+            "port": "443",
+            "secret": "7HQighJPBNMYVRNB6tdkVw",
+            "name": "@TelMTProto|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=212.111.81.125&port=443&secret=7HQighJPBNMYVRNB6tdkVw&@TelMTProto|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "5.35.38.229",
             "port": "443",
             "secret": "7HQighJPBNMYVRNB6tdkVw",
@@ -64,6 +76,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "140.233.187.33",
+            "port": "12",
+            "secret": "7mZge5CInMYHGdIXDLKFGWIq",
+            "name": "@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=140.233.187.33&port=12&secret=7mZge5CInMYHGdIXDLKFGWIq&@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "140.233.187.34",
             "port": "12",
             "secret": "7mZge5CInMYHGdIXDLKFGWIq",
@@ -79,9 +103,9 @@
             "server": "sat.kaftarefokolbeasr.info",
             "port": "443",
             "secret": "1603010200010001fc030386e24c3add",
-            "name": "@PinkProxy|\ud83c\uddf3\ud83c\uddf1"
+            "name": "@PinkProxy|\ud83c\uddf8\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=sat.kaftarefokolbeasr.info&port=443&secret=1603010200010001fc030386e24c3add&@PinkProxy|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=sat.kaftarefokolbeasr.info&port=443&secret=1603010200010001fc030386e24c3add&@PinkProxy|\ud83c\uddf8\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -91,9 +115,9 @@
             "server": "www.alkortiliy.info",
             "port": "443",
             "secret": "1603010200010001fc030386e24c3add",
-            "name": "@PinkProxy|\ud83c\uddf3\ud83c\uddf1"
+            "name": "@PinkProxy|\ud83c\uddf8\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.alkortiliy.info&port=443&secret=1603010200010001fc030386e24c3add&@PinkProxy|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=www.alkortiliy.info&port=443&secret=1603010200010001fc030386e24c3add&@PinkProxy|\ud83c\uddf8\ud83c\uddea"
     },
     {
         "scheme": "https",
