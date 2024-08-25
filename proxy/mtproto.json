@@ -112,18 +112,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "140.233.187.58",
-            "port": "12",
-            "secret": "7mZge5CInMYHGdIXDLKFGWIrKi1f",
-            "name": "@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=140.233.187.58&port=12&secret=7mZge5CInMYHGdIXDLKFGWIrKi1f&@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "140.233.187.60",
             "port": "12",
             "secret": "7mZge5CInMYHGdIXDLKFGWIrKi1f",
@@ -136,24 +124,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "185.222.28.73",
+            "server": "140.233.187.58",
             "port": "12",
-            "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
-            "name": "@proxyy|\ud83c\uddea\ud83c\uddf8"
+            "secret": "7mZge5CInMYHGdIXDLKFGWIrKi1f",
+            "name": "@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=185.222.28.73&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@proxyy|\ud83c\uddea\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=140.233.187.58&port=12&secret=7mZge5CInMYHGdIXDLKFGWIrKi1f&@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "168.119.254.189",
-            "port": "4045",
+            "server": "185.222.28.73",
+            "port": "12",
             "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
-            "name": "@PinkProxy|\ud83c\udde9\ud83c\uddea"
+            "name": "@proxyy|\ud83c\uddea\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=168.119.254.189&port=4045&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@PinkProxy|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=185.222.28.73&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@proxyy|\ud83c\uddea\ud83c\uddf8"
     },
     {
         "scheme": "https",
