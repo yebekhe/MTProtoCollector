@@ -4,6 +4,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "128.140.13.248",
+            "port": "443",
+            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
+            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=128.140.13.248&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "red-captoin.ir",
             "port": "321",
             "secret": "7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg",
@@ -103,9 +115,9 @@
             "server": "www.jbl-pro.pro.",
             "port": "4045",
             "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
-            "name": "@PinkProxy|\ud83c\uddee\ud83c\uddf9"
+            "name": "@PinkProxy|\ud83c\uddec\ud83c\udde7"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.jbl-pro.pro.&port=4045&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@PinkProxy|\ud83c\uddee\ud83c\uddf9"
+        "link": "https:\/\/t.me\/proxy?server=www.jbl-pro.pro.&port=4045&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@PinkProxy|\ud83c\uddec\ud83c\udde7"
     },
     {
         "scheme": "https",
@@ -184,23 +196,23 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "128.140.34.131",
-            "port": "112",
-            "secret": "eeddbhiFRGGZseLntnSb8QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "server": "157.90.112.32",
+            "port": "4045",
+            "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
             "name": "@ProxyForOpeta|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=128.140.34.131&port=112&secret=eeddbhiFRGGZseLntnSb8QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@ProxyForOpeta|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=157.90.112.32&port=4045&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@ProxyForOpeta|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "91.142.77.66",
-            "port": "3598",
-            "secret": "ee082082082082082082082082082082087472616e736c6174652e676f6f",
-            "name": "@ProxyForOpeta|\ud83c\uddf7\ud83c\uddfa"
+            "server": "107.23.152.73",
+            "port": "443",
+            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY",
+            "name": "@ProxyForOpeta|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=91.142.77.66&port=3598&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f&@ProxyForOpeta|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=107.23.152.73&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY&@ProxyForOpeta|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
